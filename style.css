@@ -1,0 +1,79 @@
+body
+	{
+		font-size: xx-large;
+		background-color: rgba(104, 0, 0, 0.767);
+		color:white
+	
+	}
+	
+	
+
+	#image1
+	{
+		background-image: linear-gradient(217dg, rgb(255,0,0,8)70.71%),
+		linear-gradient(127dg,black,black 70.71%),
+		linear-gradient(336dg, rgb(0,0,255,8), rgb(0,0,255,0)70.71%);
+		
+	}
+
+	#image2
+	{
+		background-image: linear-gradient(217dg, rgb(255,0,0,8)70.71%),
+		linear-gradient(127dg,black,black 70.71%),
+		linear-gradient(336dg, rgb(0,0,255,8), rgb(0,0,255,0)70.71%);
+		
+	}
+
+	#image3
+	{
+		background-image: linear-gradient(217dg, rgb(255,0,0,8)70.71%),
+		linear-gradient(127dg,black,black 70.71%),
+		linear-gradient(336dg, rgb(0,0,255,8), rgb(0,0,255,0)70.71%);
+		
+	}
+	
+	
+
+
+	
+	.header{
+		overflow: visible;
+		background-color: darkred;
+		padding: 20px 10px;
+	} .header a{
+		float: left;
+		color: rgb(255, 194, 194);
+		text-align: center;
+		padding: 20px;
+		text-decoration:none;
+		font-size: 30px;
+		line-height: 27px;
+		border-radius: 30px;
+	
+		
+	}
+
+
+
+
+	.header a:hover{
+		background-color: rgb(104, 2, 87);
+		color: rgb(17, 231, 221);
+	}
+
+
+.header a:active{
+	background-color: mediumspringgreen;
+} .header-right{
+	float: right;
+}
+
+.header a{
+	float: none;
+	display: inline;
+	text-align: center;
+}
+
+footer{
+	display:inline
+}
